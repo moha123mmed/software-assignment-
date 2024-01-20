@@ -1,0 +1,23 @@
+{
+	"name": "server",
+	"author": "waleed",
+	"web": "waleed.net",
+	"email": "weely.xc@hotmail.com",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"axios": "^0.26.1",
+		"bcrypt": "^5.1.1",
+		"bootstrap": "^5.3.2",
+		"cors": "^2.8.5",
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"fs": "^0.0.1-security",
+		"jsonwebtoken": "^9.0.2",
+		"mongoose": "^6.12.3",
+		"multer": "^1.4.5-lts.1",
+		"nodemon": "^2.0.22",
+		"qrcode": "^1.5.3",
+		"validator": "^13.11.0"
+	}
+}
